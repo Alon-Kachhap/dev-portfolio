@@ -13,3 +13,5 @@ This template has been developed by [@codewithsadee](https://www.twitter.com/cod
 Donations: [Patreon](https://patreon.com/codewithsadee).
 
 License: MIT (see LICENSE file).
+
+https://github.com/user-attachments/assets/ca11f393-f92c-430e-8b7c-7e69aee97b3e
